@@ -1,0 +1,120 @@
+body{
+    background-color: #aaa1aa;
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#header{
+    background-color: rgb(80, 80, 163);
+    display: flex;
+    justify-content: space-between
+}
+
+.logo{
+    padding-left: 15px;
+    display: inline;
+}
+li{
+    display: inline;
+}
+.feature{
+    margin: 20px;
+    display: flex;
+    color: azure;
+}
+.about{
+    margin: 20px;
+    display: flex;
+    color: azure;
+}
+.contact{
+    margin: 20px;
+    display: flex;
+    color: azure;
+}
+
+
+#main{
+    margin: -22px;
+    background-color: rgb(196, 196, 196);
+    height: 200px;
+    padding: 10px;
+}
+.btn1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 45%;
+    color: bisque;
+    background-color: rgb(27, 27, 156);
+}
+.mainh1{
+    padding: 20px;
+    /* font-size: 40px; */
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mainp{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main{
+    display: inline;
+    width: 40%;
+}
+
+#features{
+    display: inline-flex;
+   background-color:  rgb(196, 196, 196);
+
+}
+#feature1{
+    padding: 5px;
+    background-color:  rgb(175, 175, 175);
+    width: 40%;
+    border: 1px solid blue;
+    justify-content: center;
+    margin: 20px;
+}
+#feature2{
+    padding: 5px;
+    background-color: rgb(175, 175, 175);
+    width: 40%;
+    border: 1px solid blue;
+    margin: 20px;
+
+}
+#feature3{
+    padding: 5px;
+    background-color: rgb(177, 177, 177);
+    width: 40%;
+    border: 1px solid blue;
+    margin: 20px;
+
+}
+
+.send-btn{
+    /* margin: 30px; */
+    /* margin-left: 40%; */
+    background-color: green;
+    color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.span1{
+    /* color: antiquewhite; */
+    display: flex;
+}
+
+#contact{
+    background: rgb(196, 196, 196);
+    padding: 10px;
+}
+
+#about{
+    background: rgb(196, 196, 196);
+    padding: 10px;
+}
